@@ -18,6 +18,10 @@ public class Base {
 		 driver.get("https://neostox.com/");
 		 Thread.sleep(1000);
 		 Reporter.log("lonching the browser", true);
+		 
+		 
+		 
+		 
 	}
 	
 

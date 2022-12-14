@@ -17,12 +17,7 @@ public class Base {
 		 Thread.sleep(1000);
 		 driver.get("https://neostox.com/");
 		 Thread.sleep(1000);
-		 Reporter.log("lonching the browser", true);
-		 
-		 
-
-		 
-		 
+		 Reporter.log("lonching the browser", true);	 
 	}
 	
 
